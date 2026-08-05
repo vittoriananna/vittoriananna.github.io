@@ -1,8 +1,9 @@
 baseURL = "https://vittoriananna.github.io/"
 languageCode = "en-uk"
-title = "How to Use Claude Science on WSL"
+title = "Vittoria Nanna"
 theme = "PaperMod"
 
 [params]
   ShowReadingTime = true
   ShowPostNavLinks = true
+  googleSiteVerification = "google72bb71e4c05c25f8.html"
