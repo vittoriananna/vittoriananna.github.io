@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Vittoria Nanna</title>
-    <link>/tags/</link>
+    <link>https://vittoriananna.github.io/tags/</link>
     <description>Recent content in Tags on Vittoria Nanna</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Wed, 01 Jul 2026 09:47:44 +0200</lastBuildDate>
-    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vittoriananna.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ai-Tools</title>
-      <link>/tags/ai-tools/</link>
+      <link>https://vittoriananna.github.io/tags/ai-tools/</link>
       <pubDate>Wed, 01 Jul 2026 09:47:44 +0200</pubDate>
-      <guid>/tags/ai-tools/</guid>
+      <guid>https://vittoriananna.github.io/tags/ai-tools/</guid>
       <description></description>
     </item>
     <item>
       <title>Claude-Science</title>
-      <link>/tags/claude-science/</link>
+      <link>https://vittoriananna.github.io/tags/claude-science/</link>
       <pubDate>Wed, 01 Jul 2026 09:47:44 +0200</pubDate>
-      <guid>/tags/claude-science/</guid>
+      <guid>https://vittoriananna.github.io/tags/claude-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Computational-Biology</title>
-      <link>/tags/computational-biology/</link>
+      <link>https://vittoriananna.github.io/tags/computational-biology/</link>
       <pubDate>Wed, 01 Jul 2026 09:47:44 +0200</pubDate>
-      <guid>/tags/computational-biology/</guid>
+      <guid>https://vittoriananna.github.io/tags/computational-biology/</guid>
       <description></description>
     </item>
     <item>
       <title>Hpc</title>
-      <link>/tags/hpc/</link>
+      <link>https://vittoriananna.github.io/tags/hpc/</link>
       <pubDate>Wed, 01 Jul 2026 09:47:44 +0200</pubDate>
-      <guid>/tags/hpc/</guid>
+      <guid>https://vittoriananna.github.io/tags/hpc/</guid>
       <description></description>
     </item>
     <item>
       <title>Wsl</title>
-      <link>/tags/wsl/</link>
+      <link>https://vittoriananna.github.io/tags/wsl/</link>
       <pubDate>Wed, 01 Jul 2026 09:47:44 +0200</pubDate>
-      <guid>/tags/wsl/</guid>
+      <guid>https://vittoriananna.github.io/tags/wsl/</guid>
       <description></description>
     </item>
     <item>
       <title>CV</title>
-      <link>/tags/cv/</link>
+      <link>https://vittoriananna.github.io/tags/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/cv/</guid>
+      <guid>https://vittoriananna.github.io/tags/cv/</guid>
       <description></description>
     </item>
     <item>
       <title>WhoamI</title>
-      <link>/tags/whoami/</link>
+      <link>https://vittoriananna.github.io/tags/whoami/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/whoami/</guid>
+      <guid>https://vittoriananna.github.io/tags/whoami/</guid>
       <description></description>
     </item>
   </channel>

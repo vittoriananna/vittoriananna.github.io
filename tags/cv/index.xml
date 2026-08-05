@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>CV on Vittoria Nanna</title>
-    <link>/tags/cv/</link>
+    <link>https://vittoriananna.github.io/tags/cv/</link>
     <description>Recent content in CV on Vittoria Nanna</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
-    <atom:link href="/tags/cv/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://vittoriananna.github.io/tags/cv/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Who am I</title>
-      <link>/posts/whoiam/</link>
+      <link>https://vittoriananna.github.io/posts/whoiam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/posts/whoiam/</guid>
+      <guid>https://vittoriananna.github.io/posts/whoiam/</guid>
       <description>&lt;p&gt;Hello there! I am Vittoria Nanna and I am the author of this blog.
 I work as a researcher at the &lt;a href=&#34;https://www.ic.cnr.it/&#34;&gt;National Research Council of Italy (CNR)&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I started this blog because I&amp;rsquo;d like to share random tips related to work and life.&lt;/p&gt;</description>
