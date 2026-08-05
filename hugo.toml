@@ -8,3 +8,15 @@ enableRobotsTXT = true
   ShowReadingTime = true
   ShowPostNavLinks = true
   googleSiteVerification = "HxdTBZVg3aHIrg5bkHGwHas8aTpw8nlvT6aYpjrksB4"
+
+[[menu.main]]
+  identifier = "about"
+  name = "About"
+  url = "/posts/whoiam/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "blog"
+  name = "Blog"
+  url = "/posts/"
+  weight = 20
