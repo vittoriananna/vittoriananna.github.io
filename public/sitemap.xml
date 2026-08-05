@@ -34,5 +34,13 @@
   </url><url>
     <loc>http://localhost:1313/tags/wsl/</loc>
     <lastmod>2026-07-01T09:47:44+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cv/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/personal/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/whoiam/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/whoami/</loc>
   </url>
 </urlset>

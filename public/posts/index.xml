@@ -15,5 +15,14 @@
       <guid>http://localhost:1313/posts/claudescience/</guid>
       <description>A step-by-step guide to installing and running Anthropic&amp;#39;s Claude Science AI workbench inside WSL2 on Windows</description>
     </item>
+    <item>
+      <title>Who am I</title>
+      <link>http://localhost:1313/posts/whoiam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/whoiam/</guid>
+      <description>&lt;p&gt;Hello there! I am Vittoria Nanna and I am the author of this blog.
+I work as a researcher at the &lt;a href=&#34;https://www.ic.cnr.it/&#34;&gt;National Research Council of Italy (CNR)&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I started this blog because I&amp;rsquo;d like to share random tips related to work and life.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
