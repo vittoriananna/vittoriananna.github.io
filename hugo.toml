@@ -2,8 +2,9 @@ baseURL = "https://vittoriananna.github.io/"
 languageCode = "en-uk"
 title = "Vittoria Nanna"
 theme = "PaperMod"
+enableRobotsTXT = true
 
 [params]
   ShowReadingTime = true
   ShowPostNavLinks = true
-  googleSiteVerification = "google72bb71e4c05c25f8.html"
+  googleSiteVerification = "HxdTBZVg3aHIrg5bkHGwHas8aTpw8nlvT6aYpjrksB4"
