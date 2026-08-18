@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Powerpoint on Vittoria Nanna</title>
+    <link>http://localhost:1313/tags/powerpoint/</link>
+    <description>Recent content in Powerpoint on Vittoria Nanna</description>
+    <generator>Hugo</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 18 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/powerpoint/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Change Corner Radius in PowerPoint</title>
+      <link>http://localhost:1313/posts/cornerradiusppt/</link>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cornerradiusppt/</guid>
+      <description>&lt;p&gt;Preparing a poster for an upcoming conference, I found myself wanting to standardize the roundness of the rounded-rectagle boxes across my slides. Dragging the little yellow dot that appears in PowerPoint surely isn&amp;rsquo;t the most efficient way to get consistent results. I wanted every box to have &lt;em&gt;exactly&lt;/em&gt; the same corner radius.
+Surprinsingly, there is no way to do this in the native Powerpoint interface.
+A solution is to use VBA, the Visual Basic for Applications engine.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

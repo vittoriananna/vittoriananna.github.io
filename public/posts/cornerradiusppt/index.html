@@ -5,11 +5,13 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="robots" content="noindex, nofollow">
-<title>Computational-Biology | Vittoria Nanna</title>
-<meta name="keywords" content="">
-<meta name="description" content="">
+<title>How to Change Corner Radius in PowerPoint | Vittoria Nanna</title>
+<meta name="keywords" content="tricks, powerpoint">
+<meta name="description" content="Preparing a poster for an upcoming conference, I found myself wanting to standardize the roundness of the rounded-rectagle boxes across my slides. Dragging the little yellow dot that appears in PowerPoint surely isn&rsquo;t the most efficient way to get consistent results. I wanted every box to have exactly the same corner radius.
+Surprinsingly, there is no way to do this in the native Powerpoint interface.
+A solution is to use VBA, the Visual Basic for Applications engine.">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/tags/computational-biology/">
+<link rel="canonical" href="http://localhost:1313/posts/cornerradiusppt/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.89ca4972ab5e6aaa05e9a0dae0c4bb64b26585bc79e36f5cf33614eea0283abe.css" integrity="sha256-icpJcqteaqoF6aDa4MS7ZLJlhbx5429c8zYU7qAoOr4=" rel="preload stylesheet" as="style">
 <link rel="icon" href="http://localhost:1313/favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
@@ -18,8 +20,7 @@
 <link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="http://localhost:1313/tags/computational-biology/index.xml" title="rss">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/tags/computational-biology/">
+<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/cornerradiusppt/">
 <noscript>
     <style>
         #theme-toggle,
@@ -67,7 +68,7 @@
 
 </script>
 </head>
-<body class="list" id="top">
+<body id="top">
     <header class="header">
     <nav class="header-nav">
         <div class="logo">
@@ -115,27 +116,52 @@
         </ul>
     </nav>
 </header>
-<main class="main"> 
-<header class="page-header">
-  <h1>
-    Computational-Biology
-  </h1>
-</header>
+<main class="main">
 
-<article class="post-entry tag-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Running Claude Science on Windows via WSL
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Anthropic just launched Claude Science, an AI workbench built for scientific research: literature review, code execution, reproducible figures. It’s officially supported on macOS and Linux. If you’re on Windows, that means going through WSL2. Here’s exactly how I set it up.
-What you’ll need Windows 10 (2004&#43;) or Windows 11, with virtualization enabled in BIOS WSL2, not WSL1 — the sandbox Claude Science runs code in depends on it Ubuntu 24.04 or newer inside WSL — Ubuntu 22.04 ships an older version of bubblewrap than the sandbox requires A Claude Pro, Max, Team, or Enterprise plan (Team/Enterprise users need an admin to enable it first) 1. Install WSL2 with Ubuntu 24.04 If you don’t already have WSL set up, open PowerShell and run:
-...</p>
+<article class="post-single">
+  <header class="post-header">
+    
+    <h1 class="post-title entry-hint-parent">
+      How to Change Corner Radius in PowerPoint
+    </h1>
+    <div class="post-meta">
+
+<span title='2026-08-18 00:00:00 +0000 UTC'>August 18, 2026</span>&nbsp;·&nbsp;<span>2 min</span>
+
+</div>
+  </header> 
+  <div class="post-content md-content"><p>Preparing a poster for an upcoming conference, I found myself wanting to standardize the roundness of the rounded-rectagle boxes across my slides. Dragging the little yellow dot that appears in PowerPoint surely isn&rsquo;t the most efficient way to get consistent results. I wanted every box to have <em>exactly</em> the same corner radius.
+Surprinsingly, there is no way to do this in the native Powerpoint interface.
+A solution is to use VBA, the Visual Basic for Applications engine.</p>
+<h2 id="1-create-a-reference-shape">1. Create a reference shape<a hidden class="anchor" aria-hidden="true" href="#1-create-a-reference-shape">#</a></h2>
+<p>Draw a shape and manually adjust the yellow handle until it looks as you want it. This shape becomes your reference and every other box will be matched to it.</p>
+<h2 id="2-open-vba">2. Open VBA<a hidden class="anchor" aria-hidden="true" href="#2-open-vba">#</a></h2>
+<p>To open the VBA window, click <!-- raw HTML omitted -->Alt<!-- raw HTML omitted --> + <!-- raw HTML omitted -->F11<!-- raw HTML omitted -->. Ensure that your shape is selected in the slide.
+In the VBA editor, open the Immediate window, if not already visible (<strong>View -&gt; Immediate Window</strong>) and type:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-vbnet" data-lang="vbnet"><span style="display:flex;"><span><span style="color:#960050;background-color:#1e0010">?</span> Activewindow.Selection.ShapeRange(1).Adjustments(1)
+</span></span></code></pre></div><p>Press <!-- raw HTML omitted -->Enter<!-- raw HTML omitted --> and VBA will display the value of the adjustment on the next line.</p>
+<h2 id="3-apply-the-setting-to-the-next-shape">3. Apply the setting to the next shape<a hidden class="anchor" aria-hidden="true" href="#3-apply-the-setting-to-the-next-shape">#</a></h2>
+<p>Next, select another shapes that you want to match to the first, go back to the Immediate Window and type:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-vbnet" data-lang="vbnet"><span style="display:flex;"><span>Activewindow.Selection.ShapeRange(1).Adjustments(1)<span style="color:#f92672">=[</span>value from <span style="color:#66d9ef">step</span> 2<span style="color:#f92672">]</span>
+</span></span></code></pre></div><p>Press Enter, and the shape snaps to the exact same roundness as your reference. Repeat for each shape.</p>
+<p>I have a feeling VBA will become my new favorite way to productively procrastinate work. But then — slides <em>do</em> need to be perfect.</p>
+
+
   </div>
-  <footer class="entry-footer">
 
-<span title='2026-07-01 09:47:44 +0200 CEST'>July 1, 2026</span>&nbsp;·&nbsp;<span>2 min</span></footer>
-  <a class="entry-link" aria-label="post link to Running Claude Science on Windows via WSL" href="http://localhost:1313/posts/claudescience/"></a>
+  <footer class="post-footer">
+    <ul class="post-tags">
+      <li><a href="http://localhost:1313/tags/tricks/">Tricks</a></li>
+      <li><a href="http://localhost:1313/tags/powerpoint/">Powerpoint</a></li>
+    </ul>
+<nav class="paginav">
+  <a class="next" href="http://localhost:1313/posts/claudescience/">
+    <span class="title">Next »</span>
+    <span>Running Claude Science on Windows via WSL</span>
+  </a>
+</nav>
+
+  </footer>
 </article>
     </main>
     
