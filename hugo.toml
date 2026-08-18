@@ -23,12 +23,14 @@ enableRobotsTXT = true
   ShowReadingTime = true
   ShowPostNavLinks = true
   googleSiteVerification = "HxdTBZVg3aHIrg5bkHGwHas8aTpw8nlvT6aYpjrksB4"
-  [params.homeInfoParams]
-    Title = "Hello there, I am Vittoria 👋"
-    Content = "I write scattered notes on science and life, when I'm not out running."
+  [params.profileMode]
+    enabled = true
+    title = "Hello there, I am Vittoria 👋"
+    subtitle = "I write scattered notes on science and life, when I'm not out running."
     imageUrl = "/img/avatar.jpg"
     imageWidth = 120
     imageHeight = 120
+    imageTitle = "Vittoria"
 
   [[params.socialIcons]]
     name = "github"
