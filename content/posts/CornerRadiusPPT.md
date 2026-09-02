@@ -2,7 +2,7 @@
 date = '2026-08-18'
 draft = false
 title = "How to Change Corner Radius in PowerPoint"
-tags = ["tricks", "powerpoint"]
+tags = ["tips & tricks", "powerpoint"]
 +++
 
 Preparing a poster for an upcoming conference, I found myself wanting to standardize the roundness of the rounded-rectagle boxes across my slides. Dragging the little yellow dot that appears in PowerPoint surely isn't the most efficient way to get consistent results. I wanted every box to have *exactly* the same corner radius.
