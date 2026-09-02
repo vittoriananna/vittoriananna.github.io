@@ -1,7 +1,0 @@
-+++
-date = '2026-09-02'
-draft = false
-title = "How to Change Corner Radius in PowerPoint"
-tags = ["Tips & tricks", "zenodo"]
-+++
-
