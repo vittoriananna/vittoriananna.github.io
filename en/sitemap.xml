@@ -2,17 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vittoriananna.github.io/posts/cornerradiusppt/</loc>
-    <lastmod>2026-08-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://vittoriananna.github.io/posts/</loc>
-    <lastmod>2026-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://vittoriananna.github.io/tags/powerpoint/</loc>
-    <lastmod>2026-08-18T00:00:00+00:00</lastmod>
+    <loc>https://vittoriananna.github.io/posts/zenodo-download/</loc>
+    <lastmod>2026-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vittoriananna.github.io/tags/</loc>
-    <lastmod>2026-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-uk"
@@ -24,11 +21,11 @@
                 href="https://vittoriananna.github.io/it/tags/"
                 />
   </url><url>
-    <loc>https://vittoriananna.github.io/tags/tricks/</loc>
-    <lastmod>2026-08-18T00:00:00+00:00</lastmod>
+    <loc>https://vittoriananna.github.io/tags/tips--tricks/</loc>
+    <lastmod>2026-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vittoriananna.github.io/</loc>
-    <lastmod>2026-08-18T00:00:00+00:00</lastmod>
+    <lastmod>2026-09-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-uk"
@@ -39,6 +36,15 @@
                 hreflang="it-it"
                 href="https://vittoriananna.github.io/it/"
                 />
+  </url><url>
+    <loc>https://vittoriananna.github.io/tags/zenodo/</loc>
+    <lastmod>2026-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vittoriananna.github.io/posts/cornerradiusppt/</loc>
+    <lastmod>2026-08-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://vittoriananna.github.io/tags/powerpoint/</loc>
+    <lastmod>2026-08-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://vittoriananna.github.io/tags/ai-tools/</loc>
     <lastmod>2026-07-01T09:47:44+02:00</lastmod>
