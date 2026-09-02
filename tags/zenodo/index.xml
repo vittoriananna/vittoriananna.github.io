@@ -13,7 +13,7 @@
       <link>https://vittoriananna.github.io/posts/zenodo-download/</link>
       <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
       <guid>https://vittoriananna.github.io/posts/zenodo-download/</guid>
-      <description>&lt;p&gt;Today I tried to download a large dataset off Zenodo. The regular download was painfully slow despite a very fast download speed according to Speedtest (&lt;a href=&#34;https://www.speedtest.net&#34;&gt;https://www.speedtest.net&lt;/a&gt;).
+      <description>&lt;p&gt;Today I tried to download a large dataset off Zenodo. The regular download was painfully slow despite a very fast download speed according to [Speedtest] (&lt;a href=&#34;https://www.speedtest.net&#34;&gt;https://www.speedtest.net&lt;/a&gt;).
 &lt;img alt=&#34;Speedtest result showing 937.72 Mbps download speed&#34; loading=&#34;lazy&#34; src=&#34;https://vittoriananna.github.io/images/speed-test2026.png&#34;&gt;
 The preview said 38 minutes for 4 GB. At my actual connection speed (937.72 Mbps download, per Speedtest), that same file should take about 34 seconds.&lt;/p&gt;
 &lt;p&gt;The fix turned out to be a command-line tool called &lt;a href=&#34;https://github.com/dvolgyes/zenodo_get&#34;&gt;&lt;code&gt;zenodo_get&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
