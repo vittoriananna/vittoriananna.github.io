@@ -5,10 +5,9 @@ title = "Stop Fighting Slow Zenodo Downloads"
 tags = ["tips & tricks", "zenodo"]
 +++
 
-Today I tried to download a large dataset off Zenodo. The regular download was painfully slow despite a very fast download speed according to [Speedtest](https://www.speedtest.net). 
-<div style="text-align: center;">
+Today I tried to pull a large dataset off Zenodo. The regular download was painfully slow despite a very fast connection speed according to [Speedtest](https://www.speedtest.net).
+
 ![Speedtest result showing 937.72 Mbps download speed](/images/speed-test2026.png)
-</div>
 The preview said 38 minutes for 4 GB. At my actual connection speed (937.72 Mbps download, per Speedtest), that same file should take about 34 seconds.
 
 The fix turned out to be a command-line tool called [`zenodo_get`](https://github.com/dvolgyes/zenodo_get).
