@@ -10,9 +10,9 @@
     <atom:link href="https://vittoriananna.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Academic</title>
-      <link>https://vittoriananna.github.io/academic/</link>
+      <link>https://vittoriananna.github.io/portfolio/academic/</link>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://vittoriananna.github.io/academic/</guid>
+      <guid>https://vittoriananna.github.io/portfolio/academic/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://vittoriananna.github.io/portfolio/&#34;&gt;← Back to Portfolio&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Talks, publications, and research from my work in computational structural biology.&lt;/p&gt;
 &lt;h2 id=&#34;conferences&#34;&gt;Conferences&lt;/h2&gt;
@@ -26,9 +26,9 @@
     </item>
     <item>
       <title>Portfolio</title>
-      <link>https://vittoriananna.github.io/_portfolio/</link>
+      <link>https://vittoriananna.github.io/portfolio/_portfolio/</link>
       <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
-      <guid>https://vittoriananna.github.io/_portfolio/</guid>
+      <guid>https://vittoriananna.github.io/portfolio/_portfolio/</guid>
       <description>&lt;div class=&#34;portfolio-cards&#34;&gt;
 &lt;a class=&#34;portfolio-card&#34; href=&#34;https://vittoriananna.github.io/portfolio/academic/&#34;&gt;
   &lt;h2&gt;🎓 Academic&lt;/h2&gt;

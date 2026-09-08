@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Portfolios on Vittoria Nanna</title>
+    <link>https://vittoriananna.github.io/portfolio/</link>
+    <description>Recent content in Portfolios on Vittoria Nanna</description>
+    <generator>Hugo</generator>
+    <language>en-uk</language>
+    <lastBuildDate>Tue, 08 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://vittoriananna.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Academic</title>
+      <link>https://vittoriananna.github.io/portfolio/academic/</link>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://vittoriananna.github.io/portfolio/academic/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://vittoriananna.github.io/portfolio/&#34;&gt;← Back to Portfolio&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Talks, publications, and research from my work in computational structural biology.&lt;/p&gt;
+&lt;h2 id=&#34;conferences&#34;&gt;Conferences&lt;/h2&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;h2 id=&#34;service--memberships&#34;&gt;Service &amp;amp; memberships&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Member, &lt;strong&gt;AIC Biological Macromolecules Section&lt;/strong&gt;; candidate for the BMM-AIC Commission&lt;/li&gt;
+&lt;li&gt;Co-organizer, &lt;strong&gt;In Silico Structural Biology School 2024&lt;/strong&gt;, Bari&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;</description>
+    </item>
+    <item>
+      <title>Portfolio</title>
+      <link>https://vittoriananna.github.io/portfolio/_portfolio/</link>
+      <pubDate>Tue, 08 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://vittoriananna.github.io/portfolio/_portfolio/</guid>
+      <description>&lt;div class=&#34;portfolio-cards&#34;&gt;
+&lt;a class=&#34;portfolio-card&#34; href=&#34;https://vittoriananna.github.io/portfolio/academic/&#34;&gt;
+  &lt;h2&gt;🎓 Academic&lt;/h2&gt;
+  &lt;p&gt;Talks, publications, and research.&lt;/p&gt;
+&lt;/a&gt;
+&lt;a class=&#34;portfolio-card&#34; href=&#34;https://vittoriananna.github.io/portfolio/races/&#34;&gt;
+  &lt;h2&gt;🏃 Races &amp; Sport&lt;/h2&gt;
+  &lt;p&gt;Races I&#39;ve run and other sport stuff.&lt;/p&gt;
+&lt;/a&gt;
+&lt;a class=&#34;portfolio-card&#34; href=&#34;https://vittoriananna.github.io/portfolio/photos/&#34;&gt;
+  &lt;h2&gt;📷 Photos&lt;/h2&gt;
+  &lt;p&gt;A few favorites, added as I go.&lt;/p&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.portfolio-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1.2rem;
+  margin-top: 1.5rem;
+}
+.portfolio-card {
+  display: block;
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 1px solid var(--border);
+  background: var(--entry);
+  text-decoration: none;
+  color: var(--primary);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+.portfolio-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+.portfolio-card h2 {
+  margin: 0 0 0.4rem 0;
+  font-size: 1.15rem;
+}
+.portfolio-card p {
+  margin: 0;
+  font-size: 0.92rem;
+  color: var(--secondary);
+}
+&lt;/style&gt;</description>
+    </item>
+  </channel>
+</rss>
