@@ -63,9 +63,5 @@ enableRobotsTXT = true
   url = "/portfolio/"
   weight = 20
 
-[markup]
-  [markup.highlight]
-    style = 'monokai'
-    lineNos = false
-    codeFences = true
+
 
